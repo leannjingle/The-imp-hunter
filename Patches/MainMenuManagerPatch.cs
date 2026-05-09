@@ -126,7 +126,7 @@ public static class MainMenuManagerPatch
         MgLogo = logoObject.AddComponent<SpriteRenderer>();
         logoTransform.localPosition = new(2f, -0.5f, 1f);
         logoTransform.localScale *= 1.2f;
-        MgLogo.sprite = Utils.LoadSprite("EHR.Resources.Images.EHR-Icon.png", 400f);
+        MgLogo.sprite = Utils.LoadSprite("EHR.Resources.Images.The imp games.png", 400f);
 
         // GitHub Button
         if (!GitHubButton)
