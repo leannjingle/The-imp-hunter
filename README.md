@@ -6,7 +6,7 @@
 
 **Host-Only • Custom Roles • Private Lobby Fun • Based on Endless Host Roles**
 
-<img src="Resources/Images/Theimpgames.png" alt="The Imp Games" width="700"/>
+<img src="Resources/Images/The%20imp%20games.png" alt="The Imp Games" width="700"/>
 
 ---
 
